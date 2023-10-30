@@ -11,6 +11,8 @@ logs
 
 artifacts
 
+catboost_info
+
 # Distribution / packaging
 .Python
 build/
